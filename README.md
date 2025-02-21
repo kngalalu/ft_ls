@@ -1,7 +1,3 @@
-paste this directly into a new README.md file in your project directory.
-
-markdown
-Copy
 # FT_LS Project
 
 My own implementation of the famous Unix command: **ls**.
